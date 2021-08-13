@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(to right,#C9D6FF,#E2E2E2);
+}
+h1{
+    font-family: 'Anton', sans-serif;
+    padding-top: 80px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: royalblue;
+}
+h2{
+    color: red;
+    text-decoration: underline;
+}
+h2:hover{
+    transform: rotateY(45deg);
+    transform: rotateX(45deg);
+}
+h2,h4{
+    text-align: center;
+}
+footer{
+    color: aliceblue;
+}
+.GitHubj .Instagramj .Linkedinj{
+    padding: 50px;
+    background-color: green;
+    transition: transform .2s; /* Animation */
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+.GitHubj .Instagramj .Linkedinj:hover{
+    transform: scale(1.5);
+}
+.wlw{
+    height: 150px;
+    padding-top: 150px;
+    text-align: center;
+}

@@ -1,0 +1,59 @@
+body{
+    background: linear-gradient(to right,#C9D6FF,#E2E2E2);
+}
+.imagescar{
+    padding-top: 72px;
+}
+.padtor{
+    padding-left: 420px;
+}
+
+.condog{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.condog img{
+    margin-bottom: 10px;
+}
+
+.condog p{
+    margin-bottom: 20px;
+}
+
+.condog h1{
+    margin-bottom: 15px;
+}
+
+.parallexes{
+    height: 500px;
+    text-align: center;
+    padding: 220px;
+    color: aliceblue;
+}
+
+.parallexes h1{
+    background-color: royalblue;
+}
+
+.contexters{
+    padding-top: 50px;
+}
+
+.cvt{
+    padding-left: 140px;
+}
+
+footer{
+    background-color: #212529;
+    height: 50px;
+}
+.floatingrig{
+    padding-left: 500px;
+}
+.c4this{
+    background: linear-gradient(#56CCF2,#2F80ED);
+}
+footer{
+    color: aliceblue;
+}
